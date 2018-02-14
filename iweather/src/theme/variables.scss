@@ -2,10 +2,7 @@
 // http://ionicframework.com/docs/theming/
 
 $font-path: "../assets/fonts";
-
-
 $app-direction: ltr;
-
 
 @import "ionic.globals";
 
@@ -28,8 +25,6 @@ $tabs-md-tab-text-color: color($colors, light);
 
 $list-md-background-color: color($colors, secondary);
 $list-md-text-color: color($colors, light);
-
-
 
 
 @import "ionic.theme.default";
